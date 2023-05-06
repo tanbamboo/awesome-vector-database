@@ -3,26 +3,27 @@ Collections of startups, projects, slides, papers, articles about Vector Databas
 
 ## Startups
 
-### [Pinecone](https://www.pinecone.io)
+[Pinecone](https://www.pinecone.io)
 
-### [Zilliz](https://zilliz.com)
+[Zilliz](https://zilliz.com)
 
-### [Milvus](https://milvus.io)
+[Milvus](https://milvus.io)
 
-### [Redis Vector Database](https://redis.com/solutions/use-cases/vector-database/)
+[Redis Vector Database](https://redis.com/solutions/use-cases/vector-database/)
 
 ## Projects
 
-### [Milvus Project](https://github.com/milvus-io/milvus)
+[Milvus Project](https://github.com/milvus-io/milvus)
 
-### [Facebook Research Faiss](https://github.com/facebookresearch/faiss)
+[Facebook Research Faiss](https://github.com/facebookresearch/faiss)
 
-### [Qdrant, An open-source Pinecone alternative](https://github.com/qdrant/qdrant)
+[Weaviate](https://github.com/weaviate/weaviate)
 
+[Qdrant, An open-source Pinecone alternative](https://github.com/qdrant/qdrant)
 
-### [The Coral Project](https://coralproject.net/)
+[The Coral Project](https://coralproject.net/)
 
-### [Pgvector](https://github.com/pgvector/pgvector)
+[Pgvector](https://github.com/pgvector/pgvector)
 
 ## Benchmarks
 
