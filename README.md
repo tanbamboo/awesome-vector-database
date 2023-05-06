@@ -3,8 +3,6 @@ Collections of startups, projects, slides, papers, articles about Vector Databas
 
 ## Startups
 
-[Vector database startups raise over $350M to build generative AI infrastructure](https://www.cbinsights.com/research/generative-ai-infrastructure-vector-database/)
-
 ### [Pinecone](https://www.pinecone.io)
 
 ## Projects
@@ -24,4 +22,7 @@ Collections of startups, projects, slides, papers, articles about Vector Databas
 
 ## Articles & Discussions
 [What is Vector Database?](https://www.pinecone.io/learn/vector-database/)
+
 [Hacker News: What is a Vector Database? (2021) (pinecone.io)](https://news.ycombinator.com/item?id=35826929)
+
+[Vector database startups raise over $350M to build generative AI infrastructure](https://www.cbinsights.com/research/generative-ai-infrastructure-vector-database/)
