@@ -27,6 +27,8 @@ Collections of startups, projects, slides, papers, articles about Vector Databas
 
 [Guokr Simbase](https://github.com/guokr/simbase)
 
+[LanceDB](https://github.com/lancedb/lancedb)
+
 ## Benchmarks
 
 [Qdrant: Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
