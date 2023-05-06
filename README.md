@@ -25,6 +25,8 @@ Collections of startups, projects, slides, papers, articles about Vector Databas
 
 [Pgvector](https://github.com/pgvector/pgvector)
 
+[Guokr Simbase](https://github.com/guokr/simbase)
+
 ## Benchmarks
 
 [Qdrant: Vector Database Benchmarks](https://qdrant.tech/benchmarks/)
